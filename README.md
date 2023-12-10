@@ -23,7 +23,9 @@
 Если у вас есть предложения по улучшению или вы обнаружили ошибку, не стесняйтесь создать issue или отправить pull request. Мы рады вашему участию!
 
 # Перевод чисел в различные системы счисления с решением
+
 Репозиторий проекта ➜ [GitHub](https://github.com/Leonid-Korobkov/math-project)
+
 Посетить сайт ➜ [math-project](https://leonid-korobkov.github.io/math-project/index.html)
 
 ## Авторы
